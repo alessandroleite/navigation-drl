@@ -1,8 +1,7 @@
 # Navigation RL
 
 ### 1. Introduction
-This project trains an agent to navigate and collect banana in a continuous square environment. The environment is based on the [Unity Machine Learning Agents Toolkit](https://github.com/Unity-Technologies/ml-agents). 
-
+This project trains an agent to navigate and to collect bananas in a continuous square environment. The environment is based on the [Unity Machine Learning Agents Toolkit](https://github.com/Unity-Technologies/ml-agents). 
 
 A reward of +1 is provided for collecting a yellow banana, and a reward of -1 is provided for collecting a blue banana.  Thus, the agent must collect as many as yellow bananas as possible while avoiding blue bananas.  
 
