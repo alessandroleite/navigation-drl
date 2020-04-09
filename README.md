@@ -57,6 +57,6 @@ The proposed solution relies on Deep Q-learning (DQN) [1] and Double DQN (DDQN) 
 
 [trained-agent]: https://user-images.githubusercontent.com/10624937/42135619-d90f2f28-7d12-11e8-8823-82b970a54d7e.gif "Trained Agent"
 
-[dqn-score]: report/figures/dqn_score.pdf
-[ddqn-score]: report/figures/ddqn_score.pdf
+[dqn-score]: figures/dqn_score.png
+[ddqn-score]: figures/ddqn_score.png
 
